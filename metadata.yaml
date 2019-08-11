@@ -1,0 +1,43 @@
+_repo: Tatlings_60046
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Fowl
+    alias: Huskinson, Edward
+    birthdate: 1877
+    deathdate: 1941
+    gutenberg_agent_id: '50760'
+    url: http://www.gutenberg.org/2009/agents/50760
+  illustrator:
+    agent_name: Fish, Anne Harriet
+    aliases:
+    - Fish, Ann Harriet
+    - Sefton, Anne Harriet
+    birthdate: &id001 1890
+    deathdate: 1964
+    gutenberg_agent_id: '49011'
+    url: http://www.gutenberg.org/2009/agents/49011
+    wikipedia: https://en.wikipedia.org/wiki/Anne_Harriet_Fish
+creator:
+  author:
+    agent_name: Tremayne, Sydney
+    birthdate: *id001
+    deathdate: 1963
+    gutenberg_agent_id: '50759'
+    url: http://www.gutenberg.org/2009/agents/50759
+    wikipedia: https://en.wikipedia.org/wiki/Sybil_Cookson
+description: ''
+gutenberg_issued: '2019-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60046'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epigrams'
+- !lcc 'PN'
+- GITenberg
+title: Tatlings
+url: http://www.gutenberg.org/ebooks/60046
